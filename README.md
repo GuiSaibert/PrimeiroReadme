@@ -13,7 +13,7 @@
  Organize seus produtos por categorias: Facilite a busca por itens específicos em suas listas.  
  Faça listas de desejos: Crie listas de desejos para presentes ou futuras compras.  
 
- ![imagem 01](https://cargox.com.br/wp-content/uploads/2018/04/Gest%C3%A3o-de-compras-entenda-definitivamente-como-realizar-este-processo.jpg)
+ ![imagem 01](C:\Users\Admin\Downloads)
 
  **Ai você se pergunta, qual o benefício de usar esse aplicativo ?**
 
