@@ -24,3 +24,5 @@
  Mais praticidade: Faça suas compras de qualquer lugar, a qualquer hora.  
 
   ![foto02](img02.jpeg)
+
+  **Abaixo uma demonstração do nosso layout de nosso incrivel aplicativo de gerenciamento de compras [REGIS]
