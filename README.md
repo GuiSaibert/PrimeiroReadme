@@ -22,3 +22,5 @@
  Reduza o desperdício: Controle seus estoques e evite que alimentos estraguem.  
  Organize sua vida: Tenha todas as suas listas de compras em um só lugar.  
  Mais praticidade: Faça suas compras de qualquer lugar, a qualquer hora.  
+
+  ![foto02](img02.jpeg)
