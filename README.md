@@ -1,5 +1,5 @@
 # App Gerenciamento de Compras
- Diga adeus às listas de compras perdidas! Apresentando [REGIS].
+ Diga adeus às listas de compras perdidas! Apresentando [REGIS].  
  Você já se pegou no supermercado sem saber o que comprar? Ou esqueceu algum item importante na lista?
  [REGIS] é a solução ideal para organizar suas compras, economizar tempo e dinheiro!
 
