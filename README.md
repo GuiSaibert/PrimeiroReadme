@@ -25,6 +25,11 @@
  Organize sua vida: Tenha todas as suas listas de compras em um só lugar.  
  Mais praticidade: Faça suas compras de qualquer lugar, a qualquer hora.  
 
-  ![foto02](rg3.png)
+  ![foto02](rg3.png)  
 
-  **Abaixo uma demonstração do nosso layout de nosso incrivel aplicativo de gerenciamento de compras [REGIS]**
+  
+  ![foto02](rg4.png)  
+
+  
+  ![foto02](rg5.png)
+
