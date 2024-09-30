@@ -15,7 +15,7 @@
  Organize seus produtos por categorias: Facilite a busca por itens específicos em suas listas.  
  Faça listas de desejos: Crie listas de desejos para presentes ou futuras compras.  
 
- ![foto](rg1.png)
+ ![foto](rg2.png)
 
  **Ai você se pergunta, qual o benefício de usar esse aplicativo ?**
 
@@ -25,6 +25,6 @@
  Organize sua vida: Tenha todas as suas listas de compras em um só lugar.  
  Mais praticidade: Faça suas compras de qualquer lugar, a qualquer hora.  
 
-  ![foto02](img02.jpeg)
+  ![foto02](rg3.png)
 
   **Abaixo uma demonstração do nosso layout de nosso incrivel aplicativo de gerenciamento de compras [REGIS]**
