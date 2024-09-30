@@ -13,7 +13,7 @@
  Organize seus produtos por categorias: Facilite a busca por itens específicos em suas listas.  
  Faça listas de desejos: Crie listas de desejos para presentes ou futuras compras.  
 
- ![foto](1.jpg)
+ ![foto](rg1.png)
 
  **Ai você se pergunta, qual o benefício de usar esse aplicativo ?**
 
